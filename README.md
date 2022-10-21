@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer Lab #01 </h1>
+<h1 align="center"> B7WEB Lab #01 </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela B7WEB para ensino de tecnologias WEB.
